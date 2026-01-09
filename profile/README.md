@@ -1,9 +1,13 @@
+<p align="left">
+  <a href="https://node-llm.eshaiju.com/">
+    <img src="https://github.com/node-llm/node-llm/raw/main/docs/assets/images/logo.jpg" alt="NodeLLM logo" width="300" />
+  </a>
+</p>
+
 # NodeLLM
 
 **NodeLLM** is an opinionated architectural layer for integrating  
 **Large Language Models (LLMs)** into **Node.js** systems.
-
-> Treat LLMs as an integration surface — not a dependency.
 
 ---
 
