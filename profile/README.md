@@ -1,0 +1,35 @@
+# NodeLLM
+
+**NodeLLM** is an opinionated architectural layer for integrating  
+**Large Language Models (LLMs)** into **Node.js** systems.
+
+> Treat LLMs as an integration surface — not a dependency.
+
+---
+
+## Why NodeLLM?
+
+Most LLM SDKs tightly couple applications to vendors, APIs, and churn.
+
+NodeLLM provides:
+- A **provider-agnostic core**
+- A **stable architectural boundary**
+- A **production-oriented API**
+- Freedom to switch LLM providers without rewriting your system
+
+NodeLLM is designed for **long-lived systems**, not demos or prompt playgrounds.
+
+---
+
+## Core Package
+
+- 📦 npm: https://www.npmjs.com/package/@node-llm/core  
+- 📖 Documentation: https://node-ll.eshaiju.com  
+- 💻 Source: https://github.com/node-llm/node-llm
+
+---
+
+## Maintainer
+
+Created and maintained by **Shaiju Edakulangara**  
+https://eshaiju.com
