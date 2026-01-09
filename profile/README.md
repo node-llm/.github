@@ -30,6 +30,7 @@ NodeLLM is designed for **long-lived systems**, not demos or prompt playgrounds.
 ---
 
 ## Maintainer
+<img src="https://avatars.githubusercontent.com/eshaiju" width="48" />
 
 Created and maintained by **Shaiju Edakulangara**  
 https://eshaiju.com
