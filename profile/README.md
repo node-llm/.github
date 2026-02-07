@@ -28,7 +28,7 @@ NodeLLM is designed for **long-lived systems**, not demos or prompt playgrounds.
 ## Core Package
 
 - 📦 npm: https://www.npmjs.com/package/@node-llm/core  
-- 📖 Documentation: https://node-ll.eshaiju.com  
+- 📖 Documentation: https://node-llm.eshaiju.com  
 - 💻 Source: https://github.com/node-llm/node-llm
 
 ---
