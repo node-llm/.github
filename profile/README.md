@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://node-llm.eshaiju.com/">
+  <a href="https://nodellm.dev/">
     <img src="https://github.com/node-llm/node-llm/raw/main/docs/assets/images/logo.png" alt="NodeLLM logo" width="300" />
   </a>
 </p>
@@ -28,7 +28,7 @@ NodeLLM is designed for **long-lived systems**, not demos or prompt playgrounds.
 ## Core Package
 
 - 📦 npm: https://www.npmjs.com/package/@node-llm/core  
-- 📖 Documentation: https://node-llm.eshaiju.com  
+- 📖 Documentation: https://nodellm.dev
 - 💻 Source: https://github.com/node-llm/node-llm
 
 ---
